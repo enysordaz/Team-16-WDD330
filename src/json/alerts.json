@@ -1,0 +1,22 @@
+[
+    {
+      "message": "New shipment of Ajax Tent - 3-Person, 3-Season arriving next week!",
+      "background": "darkblue",
+      "color": "white"
+    },
+    {
+      "message": "Limited time offer: 15% off on Talus Tent - 4-Person, 3-Season",
+      "background": "darkgreen",
+      "color": "white"
+    },
+    {
+      "message": "Back in stock: Talus Tent - 3-Person, 3-Season",
+      "background": "darkorange",
+      "color": "black"
+    },
+    {
+      "message": "Alpine Guide Tent - 3-Person, 4-Season now available for pre-order",
+      "background": "darkred",
+      "color": "white"
+    }
+  ]
