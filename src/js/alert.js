@@ -43,7 +43,7 @@ class Alert {
         alertElement.style.margin = '5px 0';
         
         alertSection.appendChild(alertElement);
-        ,
+        
       });
   
       // Prepend to main element
